@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.3f2dd91a.css",
+    "main.css": "/static/css/main.883df19a.css",
     "main.js": "/static/js/main.61dc882b.js",
     "static/media/home-video.mp4": "/static/media/home-video.1128f49bfdaed05630e1.mp4",
     "static/media/amazon-spheres.jpg": "/static/media/amazon-spheres.4c4f71c35597d6a5fa93.jpg",
@@ -31,11 +31,11 @@
     "static/media/signature.png": "/static/media/signature.d50cc2b7db1ab587677e.png",
     "static/media/totoro-loading.gif": "/static/media/totoro-loading.e3881dcd3fd1c6c1ad52.gif",
     "index.html": "/index.html",
-    "main.3f2dd91a.css.map": "/static/css/main.3f2dd91a.css.map",
+    "main.883df19a.css.map": "/static/css/main.883df19a.css.map",
     "main.61dc882b.js.map": "/static/js/main.61dc882b.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f2dd91a.css",
+    "static/css/main.883df19a.css",
     "static/js/main.61dc882b.js"
   ]
 }
