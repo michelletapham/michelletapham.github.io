@@ -1,16 +1,34 @@
 {
   "files": {
-    "main.css": "/michelletapham/static/css/main.073c9b0a.css",
-    "main.js": "/michelletapham/static/js/main.9d6eb042.js",
-    "static/js/787.125ff34f.chunk.js": "/michelletapham/static/js/787.125ff34f.chunk.js",
-    "static/media/logo.svg": "/michelletapham/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/michelletapham/static/css/main.8b22ebd6.css",
+    "main.js": "/michelletapham/static/js/main.cd9fff23.js",
+    "static/media/home-video.mp4": "/michelletapham/static/media/home-video.1128f49bfdaed05630e1.mp4",
+    "static/media/amazon-spheres.jpg": "/michelletapham/static/media/amazon-spheres.4c4f71c35597d6a5fa93.jpg",
+    "static/media/catherine.jpg": "/michelletapham/static/media/catherine.367123eb67e25b5b3d01.jpg",
+    "static/media/graduation.jpg": "/michelletapham/static/media/graduation.7cf2ea12c99d639723b9.jpg",
+    "static/media/sam.jpeg": "/michelletapham/static/media/sam.2617d8bd28271f2bff61.jpeg",
+    "static/media/about-photo.jpg": "/michelletapham/static/media/about-photo.d1b385a1e1a874025c1a.jpg",
+    "static/media/totoro-sleeping.webp": "/michelletapham/static/media/totoro-sleeping.4aa72a18d5fca8404c9e.webp",
+    "static/media/header-icon.gif": "/michelletapham/static/media/header-icon.a10275b6bf2c06ffb681.gif",
+    "static/media/gas-works.jpeg": "/michelletapham/static/media/gas-works.a25cdbfe3a0ea36927b8.jpeg",
+    "static/media/mariam.jpg": "/michelletapham/static/media/mariam.ed57b8e5eb2b34b88993.jpg",
+    "static/media/graduation-2.jpg": "/michelletapham/static/media/graduation-2.02396f2360d1a7a612a5.jpg",
+    "static/media/rho-gals.jpeg": "/michelletapham/static/media/rho-gals.842641ad6a74efc02a39.jpeg",
+    "static/media/sehe.jpg": "/michelletapham/static/media/sehe.b48d4e0b26dfb733a5a4.jpg",
+    "static/media/nanas-outing.jpeg": "/michelletapham/static/media/nanas-outing.fdacaec36eb2cf0d412a.jpeg",
+    "static/media/audrey-justin.jpeg": "/michelletapham/static/media/audrey-justin.87698d132cb48a80b247.jpeg",
+    "static/media/nicole.jpeg": "/michelletapham/static/media/nicole.67cb69b3146b57bc3f9e.jpeg",
+    "static/media/brooks.jpg": "/michelletapham/static/media/brooks.191db6cf4723c40a9cd4.jpg",
+    "static/media/dena.jpeg": "/michelletapham/static/media/dena.ca5f4579109ed3ae06c1.jpeg",
+    "static/media/evelyn.jpeg": "/michelletapham/static/media/evelyn.d0f6cf23306ffc7ac584.jpeg",
+    "static/media/daphne-sai.jpeg": "/michelletapham/static/media/daphne-sai.22b0523d86bec2104020.jpeg",
+    "static/media/totoro-loading.gif": "/michelletapham/static/media/totoro-loading.e3881dcd3fd1c6c1ad52.gif",
     "index.html": "/michelletapham/index.html",
-    "main.073c9b0a.css.map": "/michelletapham/static/css/main.073c9b0a.css.map",
-    "main.9d6eb042.js.map": "/michelletapham/static/js/main.9d6eb042.js.map",
-    "787.125ff34f.chunk.js.map": "/michelletapham/static/js/787.125ff34f.chunk.js.map"
+    "main.8b22ebd6.css.map": "/michelletapham/static/css/main.8b22ebd6.css.map",
+    "main.cd9fff23.js.map": "/michelletapham/static/js/main.cd9fff23.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.9d6eb042.js"
+    "static/css/main.8b22ebd6.css",
+    "static/js/main.cd9fff23.js"
   ]
 }
