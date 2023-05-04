@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/michelletapham/static/css/main.0ea15b62.css",
-    "main.js": "/michelletapham/static/js/main.c4a0ba0d.js",
+    "main.css": "/michelletapham/static/css/main.f730ec71.css",
+    "main.js": "/michelletapham/static/js/main.3354a1b3.js",
     "static/media/home-video.mp4": "/michelletapham/static/media/home-video.1128f49bfdaed05630e1.mp4",
     "static/media/amazon-spheres.jpg": "/michelletapham/static/media/amazon-spheres.4c4f71c35597d6a5fa93.jpg",
     "static/media/catherine.jpg": "/michelletapham/static/media/catherine.367123eb67e25b5b3d01.jpg",
@@ -24,11 +24,11 @@
     "static/media/daphne-sai.jpeg": "/michelletapham/static/media/daphne-sai.22b0523d86bec2104020.jpeg",
     "static/media/totoro-loading.gif": "/michelletapham/static/media/totoro-loading.e3881dcd3fd1c6c1ad52.gif",
     "index.html": "/michelletapham/index.html",
-    "main.0ea15b62.css.map": "/michelletapham/static/css/main.0ea15b62.css.map",
-    "main.c4a0ba0d.js.map": "/michelletapham/static/js/main.c4a0ba0d.js.map"
+    "main.f730ec71.css.map": "/michelletapham/static/css/main.f730ec71.css.map",
+    "main.3354a1b3.js.map": "/michelletapham/static/js/main.3354a1b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ea15b62.css",
-    "static/js/main.c4a0ba0d.js"
+    "static/css/main.f730ec71.css",
+    "static/js/main.3354a1b3.js"
   ]
 }
