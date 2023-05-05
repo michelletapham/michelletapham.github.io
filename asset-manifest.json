@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.883df19a.css",
-    "main.js": "/static/js/main.61dc882b.js",
+    "main.css": "/static/css/main.a9663011.css",
+    "main.js": "/static/js/main.b191d9be.js",
     "static/media/home-video.mp4": "/static/media/home-video.1128f49bfdaed05630e1.mp4",
     "static/media/amazon-spheres.jpg": "/static/media/amazon-spheres.4c4f71c35597d6a5fa93.jpg",
+    "static/media/michelle.jpg": "/static/media/michelle.edf62da53311405ec7d7.jpg",
     "static/media/catherine.jpg": "/static/media/catherine.367123eb67e25b5b3d01.jpg",
     "static/media/sunset.jpeg": "/static/media/sunset.b04b769d87db6cc9e68a.jpeg",
     "static/media/graduation.jpg": "/static/media/graduation.7cf2ea12c99d639723b9.jpg",
     "static/media/beach.jpeg": "/static/media/beach.c40836a8ee14e857bfa6.jpeg",
     "static/media/sam.jpeg": "/static/media/sam.2617d8bd28271f2bff61.jpeg",
-    "static/media/about-photo.jpg": "/static/media/about-photo.d1b385a1e1a874025c1a.jpg",
     "static/media/totoro-sleeping.webp": "/static/media/totoro-sleeping.4aa72a18d5fca8404c9e.webp",
     "static/media/header-icon.gif": "/static/media/header-icon.a10275b6bf2c06ffb681.gif",
     "static/media/gas-works.jpeg": "/static/media/gas-works.a25cdbfe3a0ea36927b8.jpeg",
@@ -31,11 +31,11 @@
     "static/media/signature.png": "/static/media/signature.d50cc2b7db1ab587677e.png",
     "static/media/totoro-loading.gif": "/static/media/totoro-loading.e3881dcd3fd1c6c1ad52.gif",
     "index.html": "/index.html",
-    "main.883df19a.css.map": "/static/css/main.883df19a.css.map",
-    "main.61dc882b.js.map": "/static/js/main.61dc882b.js.map"
+    "main.a9663011.css.map": "/static/css/main.a9663011.css.map",
+    "main.b191d9be.js.map": "/static/js/main.b191d9be.js.map"
   },
   "entrypoints": [
-    "static/css/main.883df19a.css",
-    "static/js/main.61dc882b.js"
+    "static/css/main.a9663011.css",
+    "static/js/main.b191d9be.js"
   ]
 }
