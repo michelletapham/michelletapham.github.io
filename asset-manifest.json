@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f57706eb.css",
-    "main.js": "/static/js/main.696dffd7.js",
+    "main.css": "/static/css/main.c8db782c.css",
+    "main.js": "/static/js/main.1f20de49.js",
     "static/media/home-video.mp4": "/static/media/home-video.1128f49bfdaed05630e1.mp4",
     "static/media/claire.jpg": "/static/media/claire.31214a0bf3a0148f61da.jpg",
     "static/media/amazon-spheres.jpg": "/static/media/amazon-spheres.4c4f71c35597d6a5fa93.jpg",
@@ -37,11 +37,11 @@
     "static/media/signature.png": "/static/media/signature.d50cc2b7db1ab587677e.png",
     "static/media/totoro-loading.gif": "/static/media/totoro-loading.e3881dcd3fd1c6c1ad52.gif",
     "index.html": "/index.html",
-    "main.f57706eb.css.map": "/static/css/main.f57706eb.css.map",
-    "main.696dffd7.js.map": "/static/js/main.696dffd7.js.map"
+    "main.c8db782c.css.map": "/static/css/main.c8db782c.css.map",
+    "main.1f20de49.js.map": "/static/js/main.1f20de49.js.map"
   },
   "entrypoints": [
-    "static/css/main.f57706eb.css",
-    "static/js/main.696dffd7.js"
+    "static/css/main.c8db782c.css",
+    "static/js/main.1f20de49.js"
   ]
 }
