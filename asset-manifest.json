@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b8ca08e.css",
+    "main.css": "/static/css/main.eceb02dc.css",
     "main.js": "/static/js/main.c28ec5d2.js",
     "static/media/home-video.mp4": "/static/media/home-video.1128f49bfdaed05630e1.mp4",
     "static/media/claire.jpg": "/static/media/claire.31214a0bf3a0148f61da.jpg",
@@ -37,11 +37,11 @@
     "static/media/signature.png": "/static/media/signature.d50cc2b7db1ab587677e.png",
     "static/media/totoro-loading.gif": "/static/media/totoro-loading.e3881dcd3fd1c6c1ad52.gif",
     "index.html": "/index.html",
-    "main.3b8ca08e.css.map": "/static/css/main.3b8ca08e.css.map",
+    "main.eceb02dc.css.map": "/static/css/main.eceb02dc.css.map",
     "main.c28ec5d2.js.map": "/static/js/main.c28ec5d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b8ca08e.css",
+    "static/css/main.eceb02dc.css",
     "static/js/main.c28ec5d2.js"
   ]
 }
