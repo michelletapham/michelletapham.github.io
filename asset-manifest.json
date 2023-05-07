@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.eceb02dc.css",
-    "main.js": "/static/js/main.c28ec5d2.js",
+    "main.css": "/static/css/main.50a9a46d.css",
+    "main.js": "/static/js/main.26e49d13.js",
     "static/media/home-video.mp4": "/static/media/home-video.1128f49bfdaed05630e1.mp4",
     "static/media/claire.jpg": "/static/media/claire.31214a0bf3a0148f61da.jpg",
     "static/media/amazon-spheres.jpg": "/static/media/amazon-spheres.4c4f71c35597d6a5fa93.jpg",
@@ -11,9 +11,9 @@
     "static/media/graduation.jpg": "/static/media/graduation.7cf2ea12c99d639723b9.jpg",
     "static/media/beach.jpeg": "/static/media/beach.c40836a8ee14e857bfa6.jpeg",
     "static/media/sam.jpeg": "/static/media/sam.2617d8bd28271f2bff61.jpeg",
-    "static/media/michelle-cafe.jpg": "/static/media/michelle-cafe.d1b385a1e1a874025c1a.jpg",
+    "static/media/michelle.jpg": "/static/media/michelle.d1b385a1e1a874025c1a.jpg",
     "static/media/totoro-sleeping.webp": "/static/media/totoro-sleeping.4aa72a18d5fca8404c9e.webp",
-    "static/media/header-icon.gif": "/static/media/header-icon.a10275b6bf2c06ffb681.gif",
+    "static/media/nav-icon.gif": "/static/media/nav-icon.a10275b6bf2c06ffb681.gif",
     "static/media/wrns.png": "/static/media/wrns.b3b38cabdbb1215703bb.png",
     "static/media/gas-works.jpeg": "/static/media/gas-works.a25cdbfe3a0ea36927b8.jpeg",
     "static/media/mariam.jpg": "/static/media/mariam.ed57b8e5eb2b34b88993.jpg",
@@ -37,11 +37,11 @@
     "static/media/signature.png": "/static/media/signature.d50cc2b7db1ab587677e.png",
     "static/media/totoro-loading.gif": "/static/media/totoro-loading.e3881dcd3fd1c6c1ad52.gif",
     "index.html": "/index.html",
-    "main.eceb02dc.css.map": "/static/css/main.eceb02dc.css.map",
-    "main.c28ec5d2.js.map": "/static/js/main.c28ec5d2.js.map"
+    "main.50a9a46d.css.map": "/static/css/main.50a9a46d.css.map",
+    "main.26e49d13.js.map": "/static/js/main.26e49d13.js.map"
   },
   "entrypoints": [
-    "static/css/main.eceb02dc.css",
-    "static/js/main.c28ec5d2.js"
+    "static/css/main.50a9a46d.css",
+    "static/js/main.26e49d13.js"
   ]
 }
