@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.a3de2261.css",
-    "main.js": "/static/js/main.26e49d13.js",
+    "main.css": "/static/css/main.99144956.css",
+    "main.js": "/static/js/main.dfa5e466.js",
     "static/media/home-video.mp4": "/static/media/home-video.1128f49bfdaed05630e1.mp4",
+    "static/media/when.mov": "/static/media/when.53c47a537af75c941820.mov",
     "static/media/claire.jpg": "/static/media/claire.31214a0bf3a0148f61da.jpg",
+    "static/media/why.jpg": "/static/media/why.61851c57cbfc57f1352d.jpg",
     "static/media/amazon-spheres.jpg": "/static/media/amazon-spheres.4c4f71c35597d6a5fa93.jpg",
+    "static/media/who.jpg": "/static/media/who.09e32d58b7ea7d35f520.jpg",
     "static/media/palm-trees.jpg": "/static/media/palm-trees.7ae83657f2f4e92923a6.jpg",
     "static/media/catherine.jpg": "/static/media/catherine.367123eb67e25b5b3d01.jpg",
     "static/media/sunset.jpeg": "/static/media/sunset.b04b769d87db6cc9e68a.jpeg",
@@ -12,7 +15,7 @@
     "static/media/beach.jpeg": "/static/media/beach.c40836a8ee14e857bfa6.jpeg",
     "static/media/sam.jpeg": "/static/media/sam.2617d8bd28271f2bff61.jpeg",
     "static/media/michelle.jpg": "/static/media/michelle.d1b385a1e1a874025c1a.jpg",
-    "static/media/totoro-sleeping.webp": "/static/media/totoro-sleeping.4aa72a18d5fca8404c9e.webp",
+    "static/media/where.jpeg": "/static/media/where.2ac3f2185c739c531a42.jpeg",
     "static/media/nav-icon.gif": "/static/media/nav-icon.a10275b6bf2c06ffb681.gif",
     "static/media/wrns.png": "/static/media/wrns.b3b38cabdbb1215703bb.png",
     "static/media/gas-works.jpeg": "/static/media/gas-works.a25cdbfe3a0ea36927b8.jpeg",
@@ -24,6 +27,7 @@
     "static/media/nanas-outing.jpeg": "/static/media/nanas-outing.fdacaec36eb2cf0d412a.jpeg",
     "static/media/audrey-justin.jpeg": "/static/media/audrey-justin.87698d132cb48a80b247.jpeg",
     "static/media/smrithi.jpeg": "/static/media/smrithi.9504d4b6dcc15a238033.jpeg",
+    "static/media/what.jpg": "/static/media/what.4c2a05a6d462036bbf70.jpg",
     "static/media/nicole.jpeg": "/static/media/nicole.67cb69b3146b57bc3f9e.jpeg",
     "static/media/brooks.jpg": "/static/media/brooks.191db6cf4723c40a9cd4.jpg",
     "static/media/dena.jpeg": "/static/media/dena.ca5f4579109ed3ae06c1.jpeg",
@@ -37,11 +41,11 @@
     "static/media/signature.png": "/static/media/signature.d50cc2b7db1ab587677e.png",
     "static/media/totoro-loading.gif": "/static/media/totoro-loading.e3881dcd3fd1c6c1ad52.gif",
     "index.html": "/index.html",
-    "main.a3de2261.css.map": "/static/css/main.a3de2261.css.map",
-    "main.26e49d13.js.map": "/static/js/main.26e49d13.js.map"
+    "main.99144956.css.map": "/static/css/main.99144956.css.map",
+    "main.dfa5e466.js.map": "/static/js/main.dfa5e466.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3de2261.css",
-    "static/js/main.26e49d13.js"
+    "static/css/main.99144956.css",
+    "static/js/main.dfa5e466.js"
   ]
 }
