@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.99144956.css",
-    "main.js": "/static/js/main.dfa5e466.js",
+    "main.css": "/static/css/main.05d1153c.css",
+    "main.js": "/static/js/main.8c1c27ab.js",
     "static/media/home-video.mp4": "/static/media/home-video.1128f49bfdaed05630e1.mp4",
+    "static/media/sunset.mov": "/static/media/sunset.04e5e39eaca5940c448e.mov",
     "static/media/when.mov": "/static/media/when.53c47a537af75c941820.mov",
     "static/media/claire.jpg": "/static/media/claire.31214a0bf3a0148f61da.jpg",
     "static/media/why.jpg": "/static/media/why.61851c57cbfc57f1352d.jpg",
@@ -37,15 +38,17 @@
     "static/media/catherine.jpeg": "/static/media/catherine.322c0583c09faf47b3f0.jpeg",
     "static/media/sam-2.jpeg": "/static/media/sam-2.2bcb38172b0c2c198e5a.jpeg",
     "static/media/WorstHabitsInLove.jpg": "/static/media/WorstHabitsInLove.6eece3436364fc436c49.jpg",
+    "static/media/simp.jpg": "/static/media/simp.ea1a9b198a40d3663084.jpg",
     "static/media/biking.jpg": "/static/media/biking.0f9b0ddd1d20cf30621d.jpg",
+    "static/media/horimiya.jpeg": "/static/media/horimiya.4bdee03314be0b4584ac.jpeg",
     "static/media/signature.png": "/static/media/signature.d50cc2b7db1ab587677e.png",
     "static/media/totoro-loading.gif": "/static/media/totoro-loading.e3881dcd3fd1c6c1ad52.gif",
     "index.html": "/index.html",
-    "main.99144956.css.map": "/static/css/main.99144956.css.map",
-    "main.dfa5e466.js.map": "/static/js/main.dfa5e466.js.map"
+    "main.05d1153c.css.map": "/static/css/main.05d1153c.css.map",
+    "main.8c1c27ab.js.map": "/static/js/main.8c1c27ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.99144956.css",
-    "static/js/main.dfa5e466.js"
+    "static/css/main.05d1153c.css",
+    "static/js/main.8c1c27ab.js"
   ]
 }
