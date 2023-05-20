@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.05d1153c.css",
-    "main.js": "/static/js/main.8c1c27ab.js",
+    "main.css": "/static/css/main.be38026a.css",
+    "main.js": "/static/js/main.8b04f06b.js",
     "static/media/home-video.mp4": "/static/media/home-video.1128f49bfdaed05630e1.mp4",
     "static/media/sunset.mov": "/static/media/sunset.04e5e39eaca5940c448e.mov",
     "static/media/when.mov": "/static/media/when.53c47a537af75c941820.mov",
@@ -10,6 +10,7 @@
     "static/media/amazon-spheres.jpg": "/static/media/amazon-spheres.4c4f71c35597d6a5fa93.jpg",
     "static/media/who.jpg": "/static/media/who.09e32d58b7ea7d35f520.jpg",
     "static/media/palm-trees.jpg": "/static/media/palm-trees.7ae83657f2f4e92923a6.jpg",
+    "static/media/sam-3.jpg": "/static/media/sam-3.6f435ce40bfb5eb219d6.jpg",
     "static/media/catherine.jpg": "/static/media/catherine.367123eb67e25b5b3d01.jpg",
     "static/media/sunset.jpeg": "/static/media/sunset.b04b769d87db6cc9e68a.jpeg",
     "static/media/graduation.jpg": "/static/media/graduation.7cf2ea12c99d639723b9.jpg",
@@ -44,11 +45,11 @@
     "static/media/signature.png": "/static/media/signature.d50cc2b7db1ab587677e.png",
     "static/media/totoro-loading.gif": "/static/media/totoro-loading.e3881dcd3fd1c6c1ad52.gif",
     "index.html": "/index.html",
-    "main.05d1153c.css.map": "/static/css/main.05d1153c.css.map",
-    "main.8c1c27ab.js.map": "/static/js/main.8c1c27ab.js.map"
+    "main.be38026a.css.map": "/static/css/main.be38026a.css.map",
+    "main.8b04f06b.js.map": "/static/js/main.8b04f06b.js.map"
   },
   "entrypoints": [
-    "static/css/main.05d1153c.css",
-    "static/js/main.8c1c27ab.js"
+    "static/css/main.be38026a.css",
+    "static/js/main.8b04f06b.js"
   ]
 }
