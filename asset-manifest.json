@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a92eef23.css",
-    "main.js": "/static/js/main.db9f825a.js",
-    "static/media/home-video.mp4": "/static/media/home-video.1128f49bfdaed05630e1.mp4",
+    "main.css": "/static/css/main.1d68c05b.css",
+    "main.js": "/static/js/main.3d30e36a.js",
     "static/media/sunset.mov": "/static/media/sunset.04e5e39eaca5940c448e.mov",
     "static/media/when.mov": "/static/media/when.53c47a537af75c941820.mov",
     "static/media/phamily.jpg": "/static/media/phamily.0d85cf3ecbef266ef276.jpg",
@@ -44,13 +43,12 @@
     "static/media/sam-2.jpeg": "/static/media/sam-2.2bcb38172b0c2c198e5a.jpeg",
     "static/media/simp.jpg": "/static/media/simp.ea1a9b198a40d3663084.jpg",
     "static/media/signature.png": "/static/media/signature.d50cc2b7db1ab587677e.png",
-    "static/media/totoro-loading.gif": "/static/media/totoro-loading.e3881dcd3fd1c6c1ad52.gif",
     "index.html": "/index.html",
-    "main.a92eef23.css.map": "/static/css/main.a92eef23.css.map",
-    "main.db9f825a.js.map": "/static/js/main.db9f825a.js.map"
+    "main.1d68c05b.css.map": "/static/css/main.1d68c05b.css.map",
+    "main.3d30e36a.js.map": "/static/js/main.3d30e36a.js.map"
   },
   "entrypoints": [
-    "static/css/main.a92eef23.css",
-    "static/js/main.db9f825a.js"
+    "static/css/main.1d68c05b.css",
+    "static/js/main.3d30e36a.js"
   ]
 }
