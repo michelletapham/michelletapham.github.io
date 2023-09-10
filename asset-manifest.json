@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1d68c05b.css",
-    "main.js": "/static/js/main.3d30e36a.js",
+    "main.js": "/static/js/main.f54c3b40.js",
     "static/media/sunset.mov": "/static/media/sunset.04e5e39eaca5940c448e.mov",
     "static/media/when.mov": "/static/media/when.53c47a537af75c941820.mov",
     "static/media/phamily.jpg": "/static/media/phamily.0d85cf3ecbef266ef276.jpg",
@@ -21,6 +21,7 @@
     "static/media/claire.jpg": "/static/media/claire.efb6acaee0d8fa1ecbc0.jpg",
     "static/media/helen.jpg": "/static/media/helen.4cc9d672002c6589cfa5.jpg",
     "static/media/sam.jpeg": "/static/media/sam.2617d8bd28271f2bff61.jpeg",
+    "static/media/birthday.jpeg": "/static/media/birthday.eb11ffdc99cba46c1006.jpeg",
     "static/media/where.jpeg": "/static/media/where.2ac3f2185c739c531a42.jpeg",
     "static/media/nav-icon.gif": "/static/media/nav-icon.a10275b6bf2c06ffb681.gif",
     "static/media/gas-works.jpeg": "/static/media/gas-works.a25cdbfe3a0ea36927b8.jpeg",
@@ -45,10 +46,10 @@
     "static/media/signature.png": "/static/media/signature.d50cc2b7db1ab587677e.png",
     "index.html": "/index.html",
     "main.1d68c05b.css.map": "/static/css/main.1d68c05b.css.map",
-    "main.3d30e36a.js.map": "/static/js/main.3d30e36a.js.map"
+    "main.f54c3b40.js.map": "/static/js/main.f54c3b40.js.map"
   },
   "entrypoints": [
     "static/css/main.1d68c05b.css",
-    "static/js/main.3d30e36a.js"
+    "static/js/main.f54c3b40.js"
   ]
 }
